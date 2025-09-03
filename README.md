@@ -4,9 +4,13 @@ Sobre o Projeto
 Este projeto foi desenvolvido na cadeira de Criatividade Computacional por:
 
 Vinícius Macêdo
+
 Ivo Neto
+
 Walter Crasto
+
 Francisco
+
 Niltton Szpak
 
 A plataforma tem como objetivo oferecer exercícios de memória voltados principalmente para idosos, de forma simples e interativa.
